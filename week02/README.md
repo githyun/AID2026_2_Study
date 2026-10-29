@@ -37,14 +37,8 @@
 
 ## 📎 공부 내용 정리
 
-이번 주에 공부한 내용을 정리한 PDF 자료를 업로드해주세요.
+- `AID_DL_Chapter(3_3,_3_4).jpynb`
 
-예시:
-
-- `week01_AID_DL_Chapter1_1.jpynb`
-- `week01_AID_DL_Chapter1_2.jpynb`
-- `week01_AID_DL_Chapter2_1.jpynb`
-- `week01_AID_DL_Chapter2_presentation.pdf`
 
 ---
 
